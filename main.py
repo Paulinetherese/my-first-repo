@@ -8,11 +8,6 @@ def add(a, b):
 
 
 #function for adding 2 numbers
-num1 = int(input("Enter first number: "))
-num2 = int(input("Enter second number: "))
-result = add(num1, num2)
-
-#function for adding 2 numbers
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 result = add(a, b)
